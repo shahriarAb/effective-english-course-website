@@ -1,0 +1,86 @@
+[
+    {
+        "id": 5,
+        "courseDetails": "Effective English in American Accent",
+        "img": "https://images.squarespace-cdn.com/content/5a9850b95417fc1f5c48bde0/1564045939413-TUOJUEBU8QOZ2BIMCT3P/american+accent+in+Dhaka.jfif?content-type=image%2Fjpeg",
+        "price": 1650,
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "courseDetails": "Effective English in British Accent",
+        "img": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_480,c_limit,dpr_2.5/cdn/f7fff2b9-2f60-4aab-81ab-43d8da4f327e/edd2b959-ab30-4ec0-855d-46bf541e55f9_560_420.jpg",
+        "price": 1390,
+        "rating": 4
+    },
+    {
+        "id": 7,
+        "courseDetails": "Beginners English",
+        "img": "https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2014/07/its_time_to_learn_english.jpg",
+        "price": 1190,
+        "rating": 3
+    },
+    {
+        "id": 8,
+        "courseDetails": "English Vocubulary",
+        "img": "https://www.grammarbd.com/public/images/grammarbd-vocabulary-learning.jpg",
+        "price": 1150,
+        "rating": 5
+    },
+    {
+        "id": 9,
+        "courseDetails": "English Composition and Expository Writing",
+        "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0Mjc4MDIzNDUxNzgwOTg4/100-expository-essay-topic-ideas-writing-tips-and-sample-essays.jpg",
+        "price": 1890,
+        "rating": 4
+    },
+    {
+        "id": 10,
+        "courseDetails": "English Pronounciation and Speaking",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0QI1Nw-cqSFDkZFKUXDg1RJGCeVYRuadtA&usqp=CAU",
+        "price": 1190,
+        "rating": 4
+    },
+    {
+        "id": 11,
+        "courseDetails": "Journalism English Program",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Reporter_from_CN8_at_the_Petco_gas_explosion_20050304.jpg",
+        "price": 1790,
+        "rating": 4
+    },
+    {
+        "id": 12,
+        "courseDetails": "English in Early Childhood",
+        "img": "https://freedesignfile.com/upload/2017/01/School-kid-education-Stock-Photo.jpg",
+        "price": 1390,
+        "rating": 4
+    },
+    {
+        "id": 13,
+        "courseDetails": "Intensive English Program",
+        "img": "https://languageonschools.com/wp-content/uploads/2015/10/110-1280x720.jpg",
+        "price": 1490,
+        "rating": 4
+    },
+    {
+        "id": 14,
+        "courseDetails": "ESL Program",
+        "img": "https://www.bergenresourcenet.org/rnBergen/cache/file/18DA5AF8-5056-A830-8CE341DD5563A14F_medium.jpg",
+        "price": 1550,
+        "rating": 5
+    },
+    {
+        "id": 15,
+        "courseDetails": "TOEFL Preparatory Programs",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtPo5B84iKO5vd98Oxb2QSYJIN6oMTqybaIkqJEmcM5428gm2A-134K-4SBFJQMFhNPw&usqp=CAU",
+        "price": 1990,
+        "rating": 4
+    },
+    {
+        "id": 16,
+        "courseDetails": "Various Test Preparation Program",
+        "img": "https://media.istockphoto.com/vectors/online-exam-online-training-courses-online-book-distance-education-vector-id1148585703?k=20&m=1148585703&s=170667a&w=0&h=yKaW_XVibPf2XMJAD9VzSKxg3Yb1u297fyjffhibh_g=",
+        "price": 1850,
+        "rating": 5
+    }
+]

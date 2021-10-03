@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "courseDetails": "Effective English for going Aborad",
+        "img": "https://cdn.elearningindustry.com/wp-content/uploads/2018/12/10-helpful-online-resources-for-college-students-1024x574.jpg",
+        "price": 1450,
+        "rating": 4
+    },
+    {
+        "id": 2,
+        "courseDetails": "English for Business",
+        "img": "https://d19d5sz0wkl0lu.cloudfront.net/dims4/default/77830ea/2147483647/resize/800x%3E/quality/90/?url=https%3A%2F%2Fatd-brightspot.s3.amazonaws.com%2F06%2Ff3%2F3fb0e16c4ef69531291f1ff7736d%2Fadobestock-209215591.jpeg",
+        "price": 1850,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "courseDetails": "English for KIDS",
+        "img": "https://www.atlantaparent.com/wp-content/uploads/2020/03/web-stock-online-learning-b-x-1024.jpg",
+        "price": 1050,
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "courseDetails": "Basic English for School Students",
+        "img": "https://i2.wp.com/academiamag.com/wp-content/uploads/2020/01/Teacher-Helping-Young-Students-at-Table-Feature-Image.jpg?fit=1021%2C580&ssl=1",
+        "price": 1350,
+        "rating": 5
+    }
+]
