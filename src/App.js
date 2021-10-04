@@ -6,6 +6,7 @@ import NotFound from './components/NotFound/NotFound';
 import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import AboutUs from './components/AboutUs/AboutUs';
+import MyCourses from './components/MyCourses/MyCourses';
 
 function App() {
   return (
@@ -21,6 +22,9 @@ function App() {
           </Route>
           <Route path="/courses">
             <Courses></Courses>
+          </Route>
+          <Route path="/mycourses">
+            <MyCourses></MyCourses>
           </Route>
           <Route path="/aboutus">
             <AboutUs></AboutUs>

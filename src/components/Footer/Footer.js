@@ -2,8 +2,17 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <h2>This is footer</h2>
+        <div className="bg-gray-900 absolute bottom-0 w-full text-center p-6 text-gray-200">
+            <div className="mb-6">
+                <small>Be connected with us</small>
+                <div className="text-2xl">
+                    <i className="fab fa-facebook-square mr-4"></i>
+                    <i className="fab fa-linkedin mr-4"></i>
+                    <i className="fab fa-twitter-square mr-4"></i>
+                    <i className="fab fa-instagram"></i>
+                </div>
+            </div>
+            <p className="">Copyright &copy; 2021 mysterious-english. All right reserved</p>
         </div>
     );
 };
