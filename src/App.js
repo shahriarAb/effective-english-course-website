@@ -10,7 +10,7 @@ import MyCourses from './components/MyCourses/MyCourses';
 
 function App() {
   return (
-    <div>
+    <div className="App bg-gray-100">
       <Router>
         <Header></Header>
         <Switch>

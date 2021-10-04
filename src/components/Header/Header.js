@@ -14,9 +14,9 @@ const Header = () => {
                 <div className=" text-5xl">
                     <i className="fas fa-globe-americas"></i>
                 </div>
-                <div className=" ml-2">
+                <div className="ml-2">
                     <h2 className="text-2xl font-bold">Mysterious English</h2>
-                    <small>The English Universe</small>
+                    <small>Your English Universe</small>
                 </div>
             </div>
             <div className="text-right p-4">
