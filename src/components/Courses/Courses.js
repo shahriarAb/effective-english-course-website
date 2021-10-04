@@ -12,7 +12,7 @@ const Courses = () => {
     return (
         <div>
             <h2 className="ml-8 text-3xl font-bold text-green-700 mb-6">Courses for you</h2>
-            <div className="mx-16 grid grid-cols-4 gap-6">
+            <div className="lg:mx-16 grid lg:grid-cols-4 gap-6">
                 {
                     courses.map(course => <Course
                         key={course.id}

@@ -25,7 +25,7 @@ const Home = () => {
     return (
         <div>
             {/* top title section */}
-            <div className="flex justify-between mx-8 p-6 border-2 bg-gradient-to-r from-green-200 to-blue-50 border-green-400 rounded-lg">
+            <div className="lg:flex justify-between mx-8 p-6 border-2 bg-gradient-to-r from-green-200 to-blue-50 border-green-400 rounded-lg">
                 <div>
                     <div className="text-6xl mt-6">
                         <h1>LEARN <span className="text-green-700 font-bold">ENGLISH</span></h1>
@@ -40,8 +40,8 @@ const Home = () => {
             <div className="mt-16 mx-8">
                 {/* left section - home page for default courses  */}
                 <h2 className="text-3xl font-bold text-green-700 mb-6">Courses for you</h2>
-                <div className="grid grid-cols-2 gap-8">
-                    <div className="ml-8 grid grid-cols-2 gap-6">
+                <div className="grid lg:grid-cols-2 sm:grid-cols-1 gap-8">
+                    <div className="lg:ml-8 grid lg:grid-cols-2 sm:grid-cols-1 gap-6">
                         {
                             courses.map(course => <Course
                                 key={course.id}
@@ -53,21 +53,21 @@ const Home = () => {
                     {/* right section - hon'ble instructors */}
                     <div className="mr-8 pt-12 text-center px-6 border-2 bg-gradient-to-b from-green-700 to-green-400 border-green-600 rounded-lg">
                         <h2 className="font-bold text-3xl text-white">Our Honourable Top<br /> Course Instructors</h2>
-                        <div className="flex ml-12 mt-6">
+                        <div className="lg:flex lg:ml-12 mt-6">
                             <img className="rounded-full h-24 w-24 inline-block" src={avatar1} alt="" />
                             <div className="mt-4 ml-4 text-white">
                                 <h2 className="text-2xl font-bold">Mrs. Jenifer Sherifs</h2>
                                 <p className="text-lg font-light italic">Chief Executive Instructor</p>
                             </div>
                         </div>
-                        <div className="flex ml-12 mt-6">
+                        <div className="lg:flex lg:ml-12 mt-6">
                             <img className="rounded-full h-24 w-24 inline-block" src={avatar2} alt="" />
                             <div className="mt-4 ml-4 text-white">
                                 <h2 className="text-2xl font-bold">Mr. Johnson Robins</h2>
                                 <p className="text-lg font-light italic">Senior Executive Instructor</p>
                             </div>
                         </div>
-                        <div className="flex ml-12 mt-6">
+                        <div className="lg:flex lg:ml-12 mt-6">
                             <img className="rounded-full h-24 w-24 inline-block" src={avatar3} alt="" />
                             <div className="mt-4 ml-4 text-white">
                                 <h2 className="text-2xl font-bold">Mrs. Salehi Khanam</h2>
@@ -77,9 +77,9 @@ const Home = () => {
                         <p className="mt-4 text-gray-100 italic">Also we have about more or less 40 instructors. They are very friendly with students, also capable to make their lesson effective and interesting. </p>
 
                         {/* section of our address and contact */}
-                        <div className="mt-8 text-lg font-light grid justify-items-end">
+                        <div className="mt-8 text-lg font-light grid lg:justify-items-end">
                             <p>Feel free to contact us at any need.</p>
-                            <p><i class="fas fa-phone-square"></i> +880-1939-632694</p>
+                            <p><i className="fas fa-phone-square"></i> +880-1939-632694</p>
                             <p><i className="fas fa-map-marker-alt"></i> 123-street, Chawkbazar, Chattogram, Bangladesh</p>
                         </div>
                     </div>
@@ -88,7 +88,7 @@ const Home = () => {
                 {/* gallery section */}
                 {/* here all the images from internet */}
                 <h2 className="text-3xl font-bold text-green-700 mt-16">Gallery</h2>
-                <div className="m-8 grid grid-cols-3 gap-2 gallery">
+                <div className="m-8 grid lg:grid-cols-3 gap-2 gallery">
                     <img src={image1} alt="" />
                     <img src={image2} alt="" />
                     <img src={image3} alt="" />

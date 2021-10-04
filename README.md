@@ -14,4 +14,4 @@ In the website, you can notice:
 - You can see which courses you added on, by going My Courses tab(working on it)
 - On default you see some popular courses of our in home home
 - On homepage you also notice some information about instructor, feedback hub and gallery
-- You can also see all courses by going on Courses tab
+- You can also see all courses by going on Courses tab.
