@@ -1,0 +1,10 @@
+.gallery img{
+    width: 396px;
+    height: 264px;
+    border-radius: 10px;
+    transition: 0.5s ease-in-out;
+}
+.gallery img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}

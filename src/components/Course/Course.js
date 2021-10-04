@@ -5,7 +5,7 @@ const Course = (props) => {
     const { courseDetails, img, price, rating } = props.course;
     return (
         <div className="relative">
-            <img style={{ filter: 'brightness(50%)' }} src={img} alt="courseImage" class="w-full h-80 object-cover rounded-md" />
+            <img style={{ filter: 'brightness(50%)' }} src={img} alt="courseImage" class="w-full h-80 object-cover rounded-md shadow-md" />
             <div class="absolute py-2.5 bottom-32 text-3xl pl-4 font-bold inset-x-0 text-white hover:underline cursor-pointer">{courseDetails}</div>
             <div class="absolute py-2.5 bottom-24 text-xl pl-4 font-bold inset-x-0 text-gray-100 leading-4">Price: BDT{price}/-</div>
             <div class="absolute py-2.5 bottom-16 pl-4 inset-x-0 text-gray-100 leading-4">Rating: <Rating
