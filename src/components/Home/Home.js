@@ -104,7 +104,7 @@ const Home = () => {
                     <p className="mt-8 text-2xl font-bold text-green-700">Your opinion matters</p>
                     <p className="mt-4">Email us your important opinion. So that, we can impove our services. :)</p>
                     <textarea
-                        className="mt-12 focus:outline-none focus:ring-2 focus:ring-green-800 focus:border-transparent border-2 shadow-inner shadow-mg rounded-md w-1/2 p-2"
+                        className="mt-12 focus:outline-none focus:ring-2 focus:ring-green-800 focus:border-transparent border-2 shadow-inner shadow-mg rounded-md lg:w-1/2 sm:w-2/3 p-2"
                         placeholder='write here' />
                     <br />
                     <button

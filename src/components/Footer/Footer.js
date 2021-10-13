@@ -9,10 +9,11 @@ const Footer = () => {
                     <i className="fab fa-facebook-square mr-4"></i>
                     <i className="fab fa-linkedin mr-4"></i>
                     <i className="fab fa-twitter-square mr-4"></i>
-                    <i className="fab fa-instagram"></i>
+                    <i className="fab fa-instagram mr-4"></i>
+                    <i className="fab fa-youtube"></i>
                 </div>
             </div>
-            <p className="">Copyright &copy; 2021 mysterious-english. All right reserved</p>
+            <p className="">Copyright &copy; 2021 mysterious-english. All right reserved. Presented by shahriarAb.</p>
         </div>
     );
 };
